@@ -1,0 +1,16 @@
+.playlist {
+  position: relative;
+  display: block;
+  padding: 10px;
+}
+
+.item {
+  background-color: #5143bd;
+  height: 60px;
+  margin: 5px auto;
+  cursor: pointer;
+  display: flex;
+}
+.item:hover {
+  background-color: #4e0fa1;
+}

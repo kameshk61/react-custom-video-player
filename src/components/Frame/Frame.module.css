@@ -1,0 +1,20 @@
+.frame {
+  position: absolute;
+  height: 80vh;
+  width: 70%;
+  bottom: 10vh;
+  background-color: #000;
+}
+
+.playlist {
+  position: absolute;
+  height: 90vh;
+  width: 30%;
+  right: 0px;
+  top: 10vh;
+  background-color: #5143bd;
+  border-left: 2px solid #fff;
+  color: white;
+  font-family: Tahoma, sans-serif;
+  overflow-y: scroll;
+}
